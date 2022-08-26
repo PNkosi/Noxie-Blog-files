@@ -1,4 +1,9 @@
+
+
+
 <svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="123" height="52" viewBox="0 0 123 52">
+  
   <text id="Noxie" transform="translate(0 41)" fill="#959fb2" font-size="44" font-family="Rubik-Bold, Rubik" font-weight="700"><tspan x="0" y="0">Noxie</tspan></text>
   <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.5" cy="5.5" r="5.5" transform="translate(84 6)" fill="#ff00e6"/>
 </svg>
+
